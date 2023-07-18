@@ -1,0 +1,12 @@
+npm init pour creer le packaje.json la dans on isntall mongous express ect 
+    "start": "node index.js"je l'ai rajouter pour faire un npmn start
+    npm install express pour gerer les routes 
+    npm install mongoos pour gerer la base de donner 
+    npm install dotenv pour faire la configration avec fichier.env
+    esuite je recupere express dans index .js car c expresse qui gere les routes et le server 
+    notre app vas gerer les routes 
+    .env pour stoker le mot de passe de la base de donner
+
+    question robin
+    mot de passe 
+    body parser qui nous permet de recuperer le contenu dune requette post (faut linstaller npm install)
